@@ -29,30 +29,30 @@ OBSThemeMeta {
  * Can also use OBSTheme::disabled, OBSTheme::active, and OBSTheme::inactive.
  * Using it without will set all three (making 'active' a bit redundant) */
 OBSTheme {
-    window: rgb(31,33,42);
+    window: rgb(28,25,25);
     windowText: rgb(255,254,255);
 
-    base: rgb(43,46,56);
-    alternateBase: rgb(11,10,11);
+    base: rgb(28,25,25);
+    alternateBase: rgb(11,10,10);
 
     text: rgb(255,254,255);
     
-    button: rgb(60,64,75);
+    button: rgb(75,60,60);
     buttonText: rgb(255,254,255);
 
-    brightText: rgb(255,254,255);
+    brightText: rgb(255,254,254);
 
-    light: rgb(88,87,88);
-    mid: rgb(31,33,42);
-    dark: rgb(43,46,56);
-    shadow: rgb(11,10,11);
+    light: rgb(88,87,87);
+    mid: rgb(28,25,25);
+    dark: rgb(28,25,25);
+    shadow: rgb(11,10,10);
 
-    primary: rgb(40,76,184);
-    primaryLight: rgb(54,92,192);
-    primaryDark: rgb(25,27,38);
+    primary: rgb(184,40,40);
+    primaryLight: rgb(192,54,54);
+    primaryDark: rgb(28,25,25);
 
-    highlight: rgb(42,130,218);
-    highlightText: rgb(255,254,255);
+    highlight: rgb(218,42,42);
+    highlightText: rgb(255,254,254);
 
     link: rgb(77,166,255);
     linkVisited: rgb(77,166,255);
@@ -68,7 +68,7 @@ OBSTheme::disabled {
 }
 
 OBSTheme::inactive {
-    text: rgb(255,254,255);
+    text: rgb(255,254,254);
     
     highlight: rgb(25,28,34);
     highlightText: rgb(255,255,255);
