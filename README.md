@@ -1,4 +1,5 @@
 # Dark-Red-OBS-Theme
+![](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/74562cdf1646662533bac4b8a37438c09ac0f12a/Dark-Red-Logo.png)
 A Dark Theme for OBS Studio.
 
 # Images
