@@ -2,7 +2,9 @@
 A Dark Theme for OBS Studio.
 
 # Cangelog
-20.05.2023 v0.0.1 First Beta Release
+|Date|Version|Short Description|Long Description|
+|---|---|---|---|
+|20.05.2023|v0.0.1|First Beta Release|   |
 
 © 2023 by Gwalex
 
