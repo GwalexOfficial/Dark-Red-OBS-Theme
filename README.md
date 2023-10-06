@@ -3,9 +3,9 @@
 A Dark-Red Theme for OBS Studio.
  
 # Images
-![Scene](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/245c547c3c97c82e6c71b98024014907ec975115/images/OBS-Theme-Dark-Red-v0.0.1-Beta-EN-Scene.png)
-![Settings](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/245c547c3c97c82e6c71b98024014907ec975115/images/OBS-Theme-Dark-Red-v0.0.1-Beta-EN-Settings.png)
-![Websocket](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/245c547c3c97c82e6c71b98024014907ec975115/images/OBS-Theme-Dark-Red-v0.0.1-Beta-EN-Websocket.png)
+![Scene](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/6e418fa8fd9d88bba9d4962e6467f2b80a8b1349/images/OBS-Theme-Dark-Red-v0.1.0-Beta-EN-Scene.png)
+![Settings](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/6e418fa8fd9d88bba9d4962e6467f2b80a8b1349/images/OBS-Theme-Dark-Red-v0.1.0-Beta-EN-Settings.png)
+![Websocket](https://github.com/GwalexOfficial/Dark-Red-OBS-Theme/blob/6e418fa8fd9d88bba9d4962e6467f2b80a8b1349/images/OBS-Theme-Dark-Red-v0.1.0-Beta-EN-Websocket.png)
 
 # Cangelog
 |Date|Version|Short Description|Long Description|
