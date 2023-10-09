@@ -10,6 +10,7 @@ A Dark Red Theme for OBS Studio.
 # Cangelog
 |Date|Version|Short Description|Long Description|
 |---|---|---|---|
+|09.10.2023|v0.1.1|Next Beta Release|Small things adjusted and tested with OBS 30.0 Beta 3|
 |06.10.2023|v0.1.0|Next Beta Release|Red is everywhere now and it has gotten darker.|
 |20.05.2023|v0.0.1|First Beta Release|   |
 
