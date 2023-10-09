@@ -79,7 +79,7 @@ OBSTheme::inactive {
 QWidget {
     alternate-background-color: palette(base);
     color: palette(text);
-    selection-background-color: rgb(40,76,184);
+    selection-background-color: rgba(184, 40, 40, 255);
     selection-color: palette(text);
     font-size: 10pt;
     font-family: 'Open Sans', '.AppleSystemUIFont', Helvetica, Arial, 'MS Shell Dlg', sans-serif;
@@ -809,7 +809,7 @@ QPushButton::flat {
 }
 
 QPushButton:checked {
-    background-color: rgb(40,76,184);
+    background-color: rgba(184, 40, 40, 255);
 }
 
 QPushButton:hover {
@@ -1258,7 +1258,7 @@ OBSHotkeyLabel {
 }
 
 OBSHotkeyLabel[hotkeyPairHover=true] {
-	color: rgb(53,82,222);
+	color: rgba(222, 53, 53, 255);
 }
 
 OBSHotkeyWidget QPushButton {
@@ -1413,7 +1413,7 @@ OBSYoutubeActions {
 }
 
 #ytEventList QLabel[isSelectedEvent=true] {
-    background-color: rgb(40,76,184);
+    background-color: rgba(184, 40, 40, 255);
     border: none;
 }
 
