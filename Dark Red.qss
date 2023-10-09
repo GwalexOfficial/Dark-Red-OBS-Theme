@@ -1,5 +1,5 @@
 /******************************************************************************/
-/*   Copyright (C) 2023 by Gwalex <dev@gwalex.com> */
+/*   Copyright (C) 2023 by Gwalex <dev@gwalex.com>                            */
 /*                                                                            */
 /*                                                                            */
 /*   This program is free software: you can redistribute it and/or modify     */
@@ -61,16 +61,16 @@ OBSTheme {
 OBSTheme::disabled {
     windowText: rgb(153,153,153);
     text: rgb(153,153,153);
-    button: rgb(27,29,34);
+    button: rgba(34, 27, 27, 255);
     
-    buttonText: rgb(43,46,56);
-    brightText: rgb(43,46,56);
+    buttonText: rgba(56, 43, 43, 255);
+    brightText: rgba(56, 43, 43, 255);
 }
 
 OBSTheme::inactive {
     text: rgb(255,254,254);
     
-    highlight: rgb(25,28,34);
+    highlight: rgba(34, 25, 25, 255);
     highlightText: rgb(255,255,255);
 }
 
@@ -1194,7 +1194,7 @@ QPushButton#extraPanelDelete {
 }
 
 QPushButton#extraPanelDelete:hover {
-    background-color: rgb(68,75,110);
+    background-color: rgba(110, 68, 68, 255);
 }
 
 QPushButton#extraPanelDelete:pressed {
@@ -1336,7 +1336,7 @@ SceneTree {
 }
 
 *[gridMode="true"] SceneTree::item:hover {
-    background-color: rgb(79,83,94);
+    background-color: rgba(94, 79, 79, 255);
 }
 
 /* Save icon */
@@ -1409,7 +1409,7 @@ OBSYoutubeActions {
 }
 
 #ytEventList QLabel:hover {
-    background-color: rgb(79,83,94);
+    background-color: rgba(94, 79, 79, 255);
 }
 
 #ytEventList QLabel[isSelectedEvent=true] {
@@ -1418,7 +1418,7 @@ OBSYoutubeActions {
 }
 
 #ytEventList QLabel[isSelectedEvent=true]:hover {
-    background-color: rgb(54,92,192);
+    background-color: rgba(192, 54, 54, 255);
     color: palette(text);
 }
 
@@ -1469,12 +1469,12 @@ QCalendarWidget #qt_calendar_nextmonth {
 }
 
 QCalendarWidget QToolButton:hover {
-    background-color: rgb(79,83,94);
+    background-color: rgba(94, 79, 79, 255);
     border-radius: 4px;
 }
 
 QCalendarWidget QToolButton:pressed {
-    background-color: rgb(25,27,38);
+    background-color: rgba(38, 25, 25, 255);
 }
 
 /* Month Dropdown Menu */
@@ -1483,7 +1483,7 @@ QCalendarWidget QMenu {
 }
 /* Year spinbox */
 QCalendarWidget QSpinBox {
-    background-color: rgb(25,27,38);
+    background-color: rgba(38, 25, 25, 255);
     border: none;
     border-radius: 4px;
     margin: 0px 3px 0px 0px;
